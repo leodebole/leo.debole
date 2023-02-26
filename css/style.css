@@ -1,0 +1,79 @@
+body{
+    font-family: Roboto;
+}
+img {
+    border-radius: 50%;
+  }
+#cita-top{
+  font-size: 20px;
+}
+#cita-bottom{
+  margin-right:10px;
+}
+blockquote{
+  padding-bottom: 30px;
+}
+.txt-color{
+    color:white;
+    font-weight: bold;
+}
+#inicio{
+    background-color: #ffbc43;
+}
+#laboral{
+    background-color: #64e1be;
+}
+#formacion{
+  background-color: #fff3c7;
+}
+#contacto{
+  margin-top:50px;
+  margin-bottom:50px;
+}
+#card-container{
+    padding-top : 100px;
+    margin-top : 50px;
+    margin-bottom:100px;
+}
+#line{
+  margin-bottom: 20px;
+}
+.details{
+    margin-top:50px;
+}
+.fix-top{
+    
+    padding-top:100px;
+    padding-bottom: 50px;;
+}
+#otros{
+    margin-top:50px;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+
+  /* font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+.fa:hover {
+    opacity: 0.7;
+  }
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+.fa-linkedin{
+  background: #007bb5;
+  color: white;
+}
